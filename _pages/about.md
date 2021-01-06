@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /about
 title: "Sha0w's CV"
 excerpt: "About me"

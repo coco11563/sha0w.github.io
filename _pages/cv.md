@@ -1,13 +1,13 @@
 ---
 layout: archive
-permalink: /
+permalink: /cv
 author_profile: true
 title: "Sha0w's CV"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /resume
-  - /cv
+  - /cv/
   - /
 ---
 

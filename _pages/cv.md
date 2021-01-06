@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Geographic Information System, East China University of Technology, 2011 - 2015
+* M.S. in Software Engineering, China University of Geosciences Wuhan, 2015 - 2018
+* Ph.D in Computer Science , University of Chinese Academy of Sciences, 2019 - now
 
 Work experience
 ======
@@ -27,15 +27,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -48,12 +39,18 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[comment]: <> (Teaching)
+
+[comment]: <> (======)
+
+[comment]: <> (  <ul>{% for post in site.teaching %})
+
+[comment]: <> (    {% include archive-single-cv.html %})
+
+[comment]: <> (  {% endfor %}</ul>)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[comment]: <> (Service and leadership)
+
+[comment]: <> (======)
+
+[comment]: <> (* Currently signed in to 43 different slack teams)

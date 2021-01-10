@@ -2,7 +2,7 @@
 layout: archive
 permalink: /cv
 author_profile: true
-title: "_Sha0w's Curriculum Vitae_"
+title: "Sha0w's Curriculum Vitae"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -14,6 +14,7 @@ redirect_from:
 {% include base_path %}
 
 ---
+
 Education
 ======
 * B.S. in Geographic Information System, East China University of Technology, 2011 - 2015

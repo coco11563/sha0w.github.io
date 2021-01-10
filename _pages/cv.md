@@ -2,7 +2,7 @@
 layout: archive
 permalink: /cv
 author_profile: true
-title: "Sha0w's CV"
+title: "_Sha0w's Curriculum Vitae_"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -13,12 +13,14 @@ redirect_from:
 
 {% include base_path %}
 
+---
 Education
 ======
 * B.S. in Geographic Information System, East China University of Technology, 2011 - 2015
 * M.S. in Software Engineering, China University of Geosciences Wuhan, 2015 - 2018
 * Ph.D in Computer Science , University of Chinese Academy of Sciences, 2019 - now
 
+---
 Work experience
 ======
 * June 2018-August 2019: Big data development engineer
@@ -38,18 +40,26 @@ Work experience
   * Supervisor: [Du Yi](http://people.ucas.ac.cn/~duyi)
   * Keywords : ETL, **Spark**, Scala, Java, **Nifi**, **Hive**, Oracle
   
+---
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
+---
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+
+---
+
 Portfolio
 ======
 * [**PiFlow**](https://github.com/cas-bigdatalab/piflow) 

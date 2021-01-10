@@ -48,7 +48,7 @@ Work experience
     * Spark implementation of Peking University's keyword algorithm
     * This work has been applied to the keywords recommendation of the various academic departments of the NSFC project application in 2020
   * Supervisor: [Yuanchun Zhou](http://people.ucas.ac.cn/~zhouyuanchun)
-  * Keywords : **Spark**, **Neo4j**, **Piflow**, Scala
+  * Keywords : **Spark**, **Neo4j**, [**PiFlow**](https://github.com/cas-bigdatalab/piflow), Scala
 * June 2017-Dec 2017: Big data development engineer (**internship**)
   * Computer Network Information Center, Chinese Academy of Sciences (Beijing)
   * Project Name: National Natural Science Foundation of China Big Data Knowledge Management Service Platform (GC-FG4161781)

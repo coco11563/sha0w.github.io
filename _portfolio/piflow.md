@@ -1,4 +1,11 @@
-[**PiFlow**](https://github.com/cas-bigdatalab/piflow)
+---
+
+title: "PiFlow : an easy to use, powerful big data pipeline system"
+collection: portfolio
+type: "Portfolio"
+permalink: /portfolio/piflow
+link: https://github.com/cas-bigdatalab/piflow
+description: [**PiFlow**](https://github.com/cas-bigdatalab/piflow)
 
 ![](../images/piflowlogo.png)  
 [![GitHub releases](https://img.shields.io/github/release/cas-bigdatalab/piflow.svg)](https://github.com/cas-bigdatalab/piflow/releases)
@@ -9,3 +16,6 @@
 [![GitHub license](https://img.shields.io/github/license/cas-bigdatalab/piflow.svg)](https://github.com/cas-bigdatalab/piflow/blob/master/LICENSE)
 
 πFlow is an easy to use, powerful big data pipeline system.
+
+---
+

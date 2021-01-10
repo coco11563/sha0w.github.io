@@ -23,6 +23,22 @@ Education
 
 ---
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+---
+
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+---
+
 Work experience
 ======
 * June 2018-August 2019: Big data development engineer
@@ -42,24 +58,6 @@ Work experience
   * Supervisor: [Du Yi](http://people.ucas.ac.cn/~duyi)
   * Keywords : ETL, **Spark**, Scala, Java, **Nifi**, **Hive**, Oracle
   
----
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
----
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-
 ---
 
 Portfolio

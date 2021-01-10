@@ -1,5 +1,4 @@
-* [**PiFlow**](https://github.com/cas-bigdatalab/piflow) 
-
+[**PiFlow**](https://github.com/cas-bigdatalab/piflow)
 
 ![](../images/piflowlogo.png)  
 [![GitHub releases](https://img.shields.io/github/release/cas-bigdatalab/piflow.svg)](https://github.com/cas-bigdatalab/piflow/releases)

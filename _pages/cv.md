@@ -60,11 +60,15 @@ Work experience
   
 ---
 
-Portfolio
-======
-  <ul>{% for post in site.portfolio %}
-  {% include archive-single.html %}
-  {% endfor %}</ul>
+[comment]: <> (Portfolio)
+
+[comment]: <> (======)
+
+[comment]: <> (  <ul>{% for post in site.portfolio %})
+
+[comment]: <> (  {% include archive-single.html %})
+
+[comment]: <> (  {% endfor %}</ul>)
 
 [comment]: <> (Teaching)
 

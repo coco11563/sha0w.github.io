@@ -63,7 +63,7 @@ Work experience
 Portfolio
 ======
   <ul>{% for post in site.portfolio %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
 
 [comment]: <> (Teaching)
